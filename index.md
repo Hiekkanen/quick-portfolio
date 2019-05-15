@@ -11,8 +11,8 @@
 ---
 
 ## Business Analyst
-- Unit economics
-- Digital Business Models
+
+**Expertize:** Unit Economics, Digital Business Models
 
 ### Consulting
 **Title:** Analyst
