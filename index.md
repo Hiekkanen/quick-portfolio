@@ -6,7 +6,7 @@
 **Certification:** Blue Prism Professional Developer<br>
 **Technologies:** Blue Prism, C#, Databases
 
-### [Learn more...](/rpadeveloper)
+**[Learn more...]** (/rpadeveloper)
 ---
 ### Business Analyst
 [Project 2 Title](/pdf/sample_presentation.pdf)
