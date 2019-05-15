@@ -2,15 +2,11 @@
 
 ---
 
-### [Professional RPA Developer](/rpadeveloper)
-**Title:** Solutions Consultant
-**Time:** 7/2017 - 8/2018
+### [Professional RPA Developer](/rpadeveloper)<br>
+**Title:** Solutions Consultant<br>
+**Time:** 7/2017 - 8/2018<br>
 
-
-
-[Learn more](/rpadeveloper)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Learn more...](/rpadeveloper)
 ---
 ### Business Analyst
 [Project 2 Title](/pdf/sample_presentation.pdf)
