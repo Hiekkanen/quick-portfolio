@@ -2,7 +2,7 @@
 
 ---
 
-### Professional RPA Developer
+### [Professional RPA Developer](/rpadeveloper)
 [Professional RPA Developer](/rpadeveloper)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
