@@ -2,7 +2,7 @@
 
 **Software:** Blue Prism
 **Certifications:** Blue Prism Professional Developer
-**Description:** I worked one year as a Robotic Process Automation developer for [Digital Workforce](digitalworkforce.fi).
+**Description:** I worked one year as a Robotic Process Automation developer for [Digital Workforce](www.digitalworkforce.fi).
 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
