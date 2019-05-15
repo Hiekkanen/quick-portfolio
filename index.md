@@ -2,13 +2,13 @@
 
 ---
 
-### Professional RPA Developer
+## Professional RPA Developer
 **Certification:** Blue Prism Professional Developer<br>
 **Technologies:** Blue Prism, C#, Databases
 
 [Learn more...](/rpadeveloper)
 ---
-### Business Analyst
+## Business Analyst
 - Unit economics
 - Digital Business Models
 
@@ -19,7 +19,7 @@
 
 ---
 
-## Education
+# Education
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,7 +27,7 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
-## Roadmap
+# Roadmap
 
 
 
