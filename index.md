@@ -14,10 +14,13 @@
 - Unit economics
 - Digital Business Models
 
-### Lorem ipsum
+### Consulting
+**Title:** Analyst
+**Company:** Accelerando Oy
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Startup
+**Title:** Business Analyst
+**Company:** cloudControl GmbH (Berlin, Germany)
 
 ---
 
