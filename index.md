@@ -15,12 +15,12 @@
 **Expertize:** Unit Economics, Digital Business Models
 
 ### Consulting
-**Title:** Analyst
-**Company:** Accelerando Oy
+**Title:** Analyst<br>
+**Company:** Accelerando Oy<br>
 
 ### Startup
-**Title:** Business Analyst
-**Company:** cloudControl GmbH (Berlin, Germany)
+**Title:** Business Analyst<br>
+**Company:** cloudControl GmbH (Berlin, Germany)<br>
 
 ---
 
