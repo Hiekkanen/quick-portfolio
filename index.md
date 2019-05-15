@@ -3,7 +3,12 @@
 ---
 
 ### [Professional RPA Developer](/rpadeveloper)
-[Professional RPA Developer](/rpadeveloper)
+**Title:** Solutions Consultant
+**Time:** 7/2017 - 8/2018
+
+
+
+[Learn more](/rpadeveloper)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
