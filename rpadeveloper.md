@@ -1,12 +1,11 @@
 # Robotic Process Automation
 
-**Software:** Blue Prism
-**Certifications:** Blue Prism Professional Developer
+**Software:** Blue Prism <br>
+**Certifications:** Blue Prism Professional Developer<br>
 **Description:** I worked one year as a Robotic Process Automation developer for [Digital Workforce](www.digitalworkforce.fi).
 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
+### What is Robotic Process Automation?
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
 ```javascript
