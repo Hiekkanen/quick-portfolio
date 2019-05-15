@@ -3,7 +3,7 @@
 ---
 
 ### Professional RPA Developer
-[Professional RPA Developer](/sample_page)
+[Professional RPA Developer](/rpadeveloper)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
