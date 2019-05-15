@@ -3,8 +3,8 @@
 ---
 
 ### [Professional RPA Developer](/rpadeveloper)<br>
-**Title:** Solutions Consultant<br>
-**Time:** 7/2017 - 8/2018<br>
+**Certification:** Blue Prism Professional Developer<br>
+**Technologies:** Blue Prism, C#, Databases
 
 [Learn more...](/rpadeveloper)
 ---
