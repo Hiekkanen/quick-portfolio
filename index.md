@@ -7,7 +7,9 @@
 **Technologies:** Blue Prism, C#, Databases
 
 [Learn more...](/rpadeveloper)
+
 ---
+
 ## Business Analyst
 - Unit economics
 - Digital Business Models
