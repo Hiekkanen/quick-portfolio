@@ -14,7 +14,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### What did I learn?
 
 ```javascript
 if (isAwesome){
@@ -22,7 +22,7 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### How can this experience be used in the future?
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
