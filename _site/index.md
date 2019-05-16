@@ -1,14 +1,16 @@
 # Introduction
 
-I have been working with technology through my professional career, mostly at the business side of things. My educational background combine with my interests have given me the opportunity to understand the big picture well.
+I have been working with technology through my professional career, mostly at the business side of things. My educational background combined with my interests have given me the opportunity to understand the big picture well.
 
 Going forward I want to get my hands dirty. As a RPA developer I realized that I find software development fascinating and rewarding. However, RPA by itself is quite limited as a tool, and the natural continuation is to develop myself to a Full-stack developer.
 
 I'm looking for an environment where I can grow grow both professionally and intellectually. I'm a data-driven, structured thinker who is looking for an environment where I can combine creativity and technical skill to create something new.
 
+[Learn more...](/aboutme.md)
+
 ---
 
-# Roadmap
+# Professional roadmap
 
 I am looking to develop into a Full-Stack developer. To further my development towards this goal, I'm currently working on the following courses:
 <br>

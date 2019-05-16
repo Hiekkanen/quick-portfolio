@@ -22,3 +22,5 @@ Precise **Documentation** is important to properly define and communicate the fu
 ### How can this experience be used in the future?
 
 When working with a client there are circumstances at which it is beneficial to integrate RPA-tools as one  part of the software stack. In order for the legacy technologies to be integrated to a new software solution RPA can provide the bridge between the new and the old software.
+
+[Next page...](/businessanalyst)
