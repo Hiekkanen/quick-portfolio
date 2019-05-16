@@ -17,13 +17,13 @@
 ### Consulting Experience
 **Title:** Analyst<br>
 **Company:** Accelerando Oy<br>
-<br><br>
+<br>
 **Description:** Analysis to support growth.
-
 
 ### Startup Experience
 **Title:** Business Analyst<br>
 **Company:** cloudControl GmbH (Berlin, Germany)<br>
+<br>
 **Description:** Lorem ipsum
 
 [Learn more...](/businessanalyst)
