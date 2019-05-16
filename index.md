@@ -34,6 +34,12 @@
 
 ## Hanken School of Economics
 
+### Information Systems Science
+**Masters Degree**
+
+### Financial Economics
+**Bachelors Degree**
+
 ## University of Helsinki
 
 # Roadmap
