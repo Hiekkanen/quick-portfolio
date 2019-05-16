@@ -14,11 +14,11 @@
 
 **Expertize:** Unit Economics, Digital Business Models
 
-### Consulting
+### Consulting Experience
 **Title:** Analyst<br>
 **Company:** Accelerando Oy<br>
 
-### Startup
+### Startup Experience
 **Title:** Business Analyst<br>
 **Company:** cloudControl GmbH (Berlin, Germany)<br>
 
@@ -26,15 +26,13 @@
 
 # Education
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+## Hanken School of Economics
+
+## University of Helsinki
 
 # Roadmap
 
-
+- Full Stack Development
 
 
 
