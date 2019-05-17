@@ -49,14 +49,14 @@ I am looking to develop into a Full-Stack developer. To further my development t
 **Title:** Analyst<br>
 **Company:** Accelerando Oy<br>
 <br>
-**Description:** Analysis to support growth. Worked on multiple projects to support raising capital and on international expansion projects.
+**Description:** Worked on several investment, international expansion and business development projects. Focused primarily on market analysis and strategy.
 
 ### Startups
 **Title:** Business Analyst<br>
 **Company:** cloudControl GmbH (Berlin, Germany)<br>
 **Tools:** Excel, SQL<br>
 <br>
-**Description:** Established metrics to monitor the growth of the business across different sevices. Analyzed profitability and growth. In addition I controlled and prepared financial statements for authorities and investors.
+**Description:** Established metrics to monitor growth, profitability and cash flow. In addition was responsible for financial control, including overseeing preparation of financial statements for authorities and investors.
 
 [Learn more...](/businessanalyst)
 
