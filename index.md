@@ -36,7 +36,7 @@ I am looking to develop into a Full-Stack developer. To further my development t
 **Title:** Solutions Consultant<br>
 **Technologies:** Blue Prism, C#, Databases<br>
 <br>
-**Description:**
+**Description:** I worked as an RPA developer at Digital Workforce. Most of my projects were within healthcare and the public sector. I was working with development, analysis of potential projects as well as project definition. During my time I reached the highest certification within the Blue Prism ecosystem(Professional Blue Prism Developer).
 
 [Learn more...](/rpadeveloper)
 
